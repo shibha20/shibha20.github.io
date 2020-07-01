@@ -24,16 +24,14 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 # Education Section
-# education_title: Education
-  layout: right
-  company: Company 1
-  link: https://google.com
-  job_title: Job title 1
-  dates: November 2016 - present
-  quote: >
-   Short description of the company (optional)
-  description: >
-    Description of role
+# Education: A Little More About Me
+more_content: | # this will include new lines to allow paragraphs 
+  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+   - Rock climbing
+   - Gaming
+   - Knitting
+   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+
 
 # More Section
 # more_title: A Little More About Me
