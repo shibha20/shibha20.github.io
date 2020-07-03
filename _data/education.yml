@@ -10,7 +10,6 @@
 - layout: left     
   name: University of Virginia
   dates: Aug 2019
-  qualification: Design Thinking for Innovation 
+  qualification: <a href="https://coursera.org/share/d9a4b8db3fb403e3fc4026f79db1a9eb"> Design Thinking For Innovation </a> 
   description: | # this will include new lines to allow paragraphs
     In this course, I went over blah blah and mention final report.  
-    <a href="https://coursera.org/share/d9a4b8db3fb403e3fc4026f79db1a9eb"> Click to check out my certificate </a> 
