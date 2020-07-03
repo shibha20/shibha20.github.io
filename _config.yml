@@ -30,7 +30,7 @@ resume_section_projects: true
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs 
   Alongside my interests in Data Science and Machine Learning, some of my other interests and hobbies are:
-   - International Business
+   - <a href="https://drive.google.com/file/d/1kf1YJADIWKrnA-DjBKuTE8SXrksqe4sn/view?usp=sharing"> International Business </a>
    - Volunteering 
    - <a href="https://www.flickr.com/photos/189095843@N05/"> Travel & Photography </a> 
    - Social Entrepreneurship 
