@@ -7,11 +7,9 @@
     Mathematical Modeling, Graph Theory, Linear Algebra, Data Structures and Objects, Advanced Object-Oriented Programming, 
     Operating System, Encoding and Encryption, A.I. in Game Design, Automata Theory, Computer Organization 
     
+- layout: left     
   name: University of Virginia
   dates: Date Range (eg. 2016 - 2019)
   qualification: Certification for the Course Design Thinking for Innovation [https://coursera.org/share/d9a4b8db3fb403e3fc4026f79db1a9eb] 
-  quote: >
-    In this course, developed at the Darden School of Business at the University of Virginia and taught by top-ranked faculty, we provide an overview of design thinking and work with a model containing four key questions and several tools to help you understand design thinking as a problem solving approach. 
   description: | # this will include new lines to allow paragraphs
     In this course, I went over blah blah and mention final report.    
-    
