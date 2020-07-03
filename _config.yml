@@ -22,6 +22,9 @@ about_content: | # this will include new lines to allow paragraphs
   I am skilled in: <mark>Python</mark>, <mark>Jave</mark>,<mark>SQL</mark>, <mark>C++</mark>,<mark>Office 365</mark>, <mark>LaTeX</mark>,<mark>MATLAB</mark>, 
   <mark>Data Analysis</mark>, <mark>Design Thinking</mark>, <mark>Storytelling</mark>, and <mark>Eating Momo</mark>.
   
+  I am looking for a Fall 2020 internship in Data Science/ Machine Learning.I am graduating in May 2021, 
+  so I am also looking for full time opportunities in those fields.  Please feel free to check my resume! 
+  
 resume_section_education: true
 resume_section_experience: true
 resume_section_projects: true
