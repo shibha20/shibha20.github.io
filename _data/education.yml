@@ -1,8 +1,8 @@
-# Degree
-- degree: Bachelor of Computer Engineering
-  uni: <a href="http://www.fti.edu.al">Polytechnic University of Tirana &mdash; Faculty of Information Technology</a>
-  year: 2015 &mdash; Today
-
-- degree: High School Diploma
-  uni: Janaq Kilica
-  year: 2014
+- layout: left 
+  name: Institution name
+  dates: Date Range (eg. 2016 - 2019)
+  qualification: Qualifications (eg. BA Performing Arts)
+  quote: >
+    Short institution or course description (optional)
+  description: | # this will include new lines to allow paragraphs
+    Description of qualification
