@@ -8,10 +8,18 @@
     Operating System, Encoding and Encryption, A.I. in Game Design, Automata Theory, Computer Organization 
     
     •	Organizations: Member of Association for Computing Machinery (ACM), Member of Women in CyberSecurity (WiCyS), Member of Pi Mu Epsilon,
-    Former Social Media Manager of Association For Women in Mathematics YSU Chatper, Fromer Vice President of the Nepalese Student Association, 
+    Former Social Media Manager of Association For Women in Mathematics YSU Chatper, Former Vice President of the Nepalese Student Association, 
     Student Academic Senator for the College of STEM
+
+- layout: left     
+  name: Johns Hopkins University
+  dates: June 2020- Present
+  qualification:  The Data Scientist's Toolbox 
+  description: | # this will include new lines to allow paragraphs
+    In this course, I went over blah blah and mention final report.  
+    <a href="https://coursera.org/share/199d2c7601277a7f19e7d0b710991ed3"> Course Info </a> 
     
-   - layout: left     
+- layout: left     
   name: University of Virginia
   dates: Aug 2019
   qualification:  Design Thinking For Innovation 
