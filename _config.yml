@@ -20,7 +20,7 @@ about_profile_image: profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Shilpa Bhandari. I am a senior at Youngstown State University pursuing Computer Science and Mathematics. 
   I am skilled in: <mark>Python</mark>, <mark>Jave</mark>,<mark>SQL</mark>, <mark>C++</mark>,<mark>Office 365</mark>, <mark>LaTeX</mark>,<mark>MATLAB</mark>, 
-  <mark>Data Analysis</mark>, <mark>Design Thinking</mark>, and <mark>Eating Momo</mark>.
+  <mark>Data Analysis</mark>, <mark>Design Thinking</mark>, <mark>Storytelling</mark>, and <mark>Eating Momo</mark>.
   
 resume_section_education: true
 resume_section_experience: true
