@@ -18,20 +18,22 @@ linkedin_username: astroshilpa
 # about_title: About Me
 about_profile_image: profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Shilpa Bhandari. I am a senior at Youngstown State University pursuing Computer Science and Mathematics. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
+  Hi, my name's Shilpa Bhandari. I am a senior at Youngstown State University pursuing Computer Science and Mathematics. 
   I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
   
-resume_section_education:       true
+resume_section_education: true
 
-resume_section_projects:       true
+resume_section_projects: true
+
+resume_section_leaderhip: true
 
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs 
   Alongside my interests in Data Science and Machine Learning, some of my other interests and hobbies are:
    - International Business
-   - Travel & Photography
+   - Volunteering 
+   - <a href="https://www.flickr.com/photos/189095843@N05/"> Travel & Photography </a> 
    - Social Entrepreneurship 
  
 # Footer
