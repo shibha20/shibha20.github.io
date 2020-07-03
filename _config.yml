@@ -24,7 +24,6 @@ about_content: | # this will include new lines to allow paragraphs
 resume_section_education: true
 resume_section_experience: true
 resume_section_projects: true
-resume_section_leaderhip: true
 
 # More Section
 # more_title: A Little More About Me
