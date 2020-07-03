@@ -1,1 +1,11 @@
+- layout: left 
+  name: Ext2FileSystem Access
+  github: https://github.com/shibha20/Software-To-Copy-Files-In-EXT2-Filesystem-To-Host-Filesystem
+  dates: Jan 2020- May 2020
+  quote: >
+    Operating System Course, YSU	
+  description: | # this will include new lines to allow paragraphs
+    Used C++ to develop a software that copies a Virtual Disk Image (VDI) file, in an ext2 filesystem, to a host system. 
+    Developed the software to access the root directory of a VDI filesystem to list all the files in the filesystem. 
+    Developed the software such that the software’s file listing provides the same information as a “long list” in UNIX. 
 
