@@ -1,23 +1,22 @@
 - layout: left 
   name: Ext2FileSystem Access
-  github: https://github.com/shibha20/Software-To-Copy-Files-In-EXT2-Filesystem-To-Host-Filesystem
+  github: https://github.com/shibha20/Software-To-Copy-Files-In-EXT2-Filesystem-To-Host-Filesystem.git
   dates: Jan 2020- May 2020
   quote: >
     Operating System Course, YSU	
   description: | # this will include new lines to allow paragraphs
-    Used C++ to develop a software that copies a Virtual Disk Image (VDI) file, in an ext2 filesystem, to a host system. 
-    Developed the software to access the root directory of a VDI filesystem to list all the files in the filesystem. 
-    Developed the software such that the software’s file listing provides the same information as a “long list” in UNIX. 
+    •	Used C++ to develop a software that copies a Virtual Disk Image (VDI) file, in an ext2 filesystem, to a host system. 
+    •	Developed the software to access the root directory of a VDI filesystem to list all the files in the filesystem. 
+    •	Developed the software such that the software’s file listing provides the same information as a “long list” in UNIX. 
 
 - layout: left 
   name: Detecting Security Breach in Wireless Network 	
-  github: https://github.com/shibha20/Intrusion-Detection-in-Wireless-Network
   dates: Aug 2019 - Present
   quote: >
     Supervised by Dr.Alina Lazar	
   description: | # this will include new lines to allow paragraphs
-    Implementing machine learning models on Aegean Wi-Fi Intrusion Dataset to detect intrusions in a wireless network.  
-    Runner up of the Poster Presentation Competition (Undergrad Category) at Women in Cybersecurity Conference 2020.
+    •	Implementing machine learning models on Aegean Wi-Fi Intrusion Dataset to detect intrusions in a wireless network.  
+    •	Runner up of the <a href="https://drive.google.com/drive/folders/1bnLxgkWqMZj3MeObdJSp36c4FKZFyLTj?usp=sharing">Poster Presentation Competition (Undergrad Category) at Women in Cybersecurity Conference 2020.</a>
     
 - layout: left 
   name: Mahoning County Land Bank 
@@ -25,6 +24,6 @@
   quote: >
     Project conducted as a part of an initiative of PIC Math - Preparation for Industrial Careers in Mathematical Sciences.	
   description: | # this will include new lines to allow paragraphs
-    Implemented learning launch tool of design thinking to understand customer’s needs.
-    Ran SQL queries on to collect the required data and analyzed it using Microsoft Excel to find company’s impact.
-    Reported six positive impacts made by the organization to help it receive more funds from The Wean Foundation.
+    •	Implemented learning launch tool of design thinking to understand customer’s needs.
+    •	Ran SQL queries on to collect the required data and analyzed it using Microsoft Excel to find company’s impact.
+    •	Reported six positive impacts made by the organization to help it receive more funds from The Wean Foundation.
