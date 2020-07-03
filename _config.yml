@@ -23,6 +23,7 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
   
 resume_section_education:       true
+resume_section_projects:       true
 
 # More Section
 # more_title: A Little More About Me
