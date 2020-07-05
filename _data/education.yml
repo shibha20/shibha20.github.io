@@ -16,13 +16,15 @@
   dates: June 2020- Present
   qualification:  The Data Scientist's Toolbox 
   description: | # this will include new lines to allow paragraphs
-    In this course, I went over blah blah and mention final report.  
-    <a href="https://coursera.org/share/199d2c7601277a7f19e7d0b710991ed3"> Course Info </a> 
+    In this <a href="https://coursera.org/share/199d2c7601277a7f19e7d0b710991ed3"> course </a>, I am gaining ideas on how to change data into stories
+    while grasping knowledge on tools like version control, markdown, git, GitHub, R, and RStudio.  
+     
     
 - layout: left     
   name: University of Virginia
   dates: Aug 2019
   qualification:  Design Thinking For Innovation 
   description: | # this will include new lines to allow paragraphs
-    In this course, I went over blah blah and mention final report.  
+    In this course, I was introduced to the concept of design thinking. I learned to used tools of design thinking for problem solving. As a final assignment, 
+    I applied design thinking to a <a href="https://drive.google.com/file/d/1-oIsw6DAV5x7KIShRy8QvO4XzP4zsFdS/view?usp=sharing>problem.</a> 
     <a href="https://coursera.org/share/d9a4b8db3fb403e3fc4026f79db1a9eb"> Certificate </a> 
