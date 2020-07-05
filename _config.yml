@@ -20,18 +20,19 @@ about_profile_image: profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Shilpa Bhandari. I am a senior at Youngstown State University pursuing Computer Science and Mathematics. I am passionate 
   about the intersection of technology with social entrepreneurship. I have had the privilege of grasping many opportunities in these fields. Last summer, 
-  I worked as a data analyst intrern at Jara, a non-profit organization developing an ed-tech device for children in emergencies. Currently, I am working on a
+  I worked as a <a href="http://www.joinjara.com/team"> data analyst intern at Jara </a>, a non-profit organization developing an ed-tech device for children in emergencies. Currently, I am working on a
   research project in which we are using machine learning to test adaptive security in wireless networks. Being an honors student, I have undertaken many other projects, 
-  focused on social-impact measurement and market research, for leading companies and local non-profit organizations.I have also been inducted to Pi Mu 
-  Epsilon, an honorary national mathematics society, because of my academic performance in Mathematics.   
+  focused on social-impact measurement and market research, for leading companies and local non-profit organizations. I have also been inducted to Pi Mu 
+  Epsilon, an honorary national mathematics society, because of my commendable academic performance in Mathematics.   
   
   Outside the classroom, as a student academic senator for the College of STEM of YSU for the academic year 2018-2019, I helped build policies that improved college 
   experience of around 16,000 YSU students. Furthermore, I am a Young Innovator for International Connector (IC), an innovation and experiential marketing agency based in 
   San-Francisco. As a Young Innovator, I have experience collaborating with youth from all around the world to co-create a vision of the future of work, while also gaining 
   21st-century skills such as remote working, cultural understanding and design-thinking. Being a travel lover and an explorer,I have widened my horizon by traveling to 
   India and 20+ states of the United States, 12 of which Iroad tripped during Summer 2018 as one of the four winners of the Your Big Year trip launched by International
-  Connector. I am also a <<a href="https://drive.google.com/file/d/1FNUFYdkUNRfMcA8_F7-7kEmGl8xknA1R/view?usp=sharing">StartingBloc Fellow</a>,an internationally recognized <a href="https://startingbloc.org/">fellowship</a> focused on developing the leadership for future. Recently,I recieved a Grace Hopper
-  Student Scholarship to attend the Grace Hopper Conference 2020, the largest global conference of women technologists. 
+  Connector. I am also a <a href="https://drive.google.com/file/d/1FNUFYdkUNRfMcA8_F7-7kEmGl8xknA1R/view?usp=sharing">StartingBloc Fellow</a>,an internationally recognized 
+  <a href="https://startingbloc.org/">fellowship</a> focused on developing the leadership for future. Recently,I recieved a <a href="https://www.linkedin.com/posts/astroshilpa_ghc-gracehopper-womeninstem-activity-6676687448782729216-SUAw">Grace Hopper
+  Student Scholarship</a> to attend the Grace Hopper Conference 2020, the largest global conference of women technologists. 
   
   I am skilled in: <mark>Python</mark>, <mark>Jave</mark>,<mark>SQL</mark>, <mark>C++</mark>,<mark>Office 365</mark>, <mark>LaTeX</mark>,<mark>MATLAB</mark>, 
   <mark>Data Analysis</mark>, <mark>Design Thinking</mark>, <mark>Storytelling</mark>, and <mark>Eating Momo</mark>. I am looking for a Fall 2020 internship in Data Science/ Machine Learning.I am graduating in May 2021, 
